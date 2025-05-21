@@ -36,7 +36,7 @@ These findings suggest that **uncoordinated and unstable economic development co
 
 **Title:** Correlation Analysis of Gun Violence in the United States from Economic Perspective  
 **Authors:** Yi Tian, Yingtong Wang, Yuxuan Xiao  
-**Published:** February 2022  
+**Published:** May 2022  
 
 📄 [Click here to read the full paper (PDF)](https://bcpublication.org/index.php/BM/article/view/1358)  
 
