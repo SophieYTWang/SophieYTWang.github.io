@@ -1,15 +1,18 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Yingtong Wang (Sophia)
+  Data Analyst | Python · SQL · Tableau · Power BI · Excel · SAS EM · Jira
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Welcome to my personal website. I use data to find insights, solve problems, and communicate value through clean, impactful visuals."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Hi, I’m **Yingtong Wang** 👋, a data analyst with a strong foundation in business, statistics, and programming.  
+I have hands-on experience with Python, SQL, Tableau, Excel, and Power BI to analyze trends, build models, and deliver actionable insights.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}
+{% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
 
 ## Features
 
