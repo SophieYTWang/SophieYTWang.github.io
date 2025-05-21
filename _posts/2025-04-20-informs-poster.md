@@ -6,8 +6,6 @@ categories:
 feature_text: |
   ## INFORMS 2025 Poster Presentation
   Data-driven procurement insights presented at the premier analytics conference
-feature_image: "https://picsum.photos/2560/600?image=1083"
-image: "https://picsum.photos/2560/600?image=1083"
 ---
 
 
