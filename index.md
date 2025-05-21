@@ -7,14 +7,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Welcome to my personal website. I use data to find insights, solve problems, and communicate value through clean, impactful visuals."
 ---
 
-Hi, I’m **Yingtong Wang** 👋, a data analyst with a strong foundation in business, statistics, and programming.  
+Hi, I’m **Yingtong Wang** 👋 —— a data analyst with a strong foundation in business, statistics, and programming.  
 I have hands-on experience with Python, SQL, Tableau, Excel, and Power BI to analyze trends, build models, and deliver actionable insights.
 
 {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}
 {% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}
 {% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
 
-## Features
+## What I Do
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
