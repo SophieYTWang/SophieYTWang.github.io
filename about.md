@@ -1,8 +1,42 @@
 ---
-title: "More About Me"
+title: "About Me"
 permalink: /about/
 layout: page
 ---
+## My Experience
+
+Before pursuing my graduate degree in analytics, I interned at both a global consulting firm and an investment bank. These experiences gave me a strong foundation in data integrity, financial reasoning, and business communication — all of which continue to shape how I work with data today.
+
+### Ernst & Young Hua Ming LLP | Audit Intern  
+**Beijing · Summer 2021**
+
+At EY, I worked on statutory audits for clients in the logistics and energy sectors. My responsibilities included:
+
+- Assisting in testing internal controls over revenue, fixed assets, and accounts payable
+- Reconciling financial statement items and verifying supporting documentation for audit trail consistency
+- Organizing audit evidence using Excel templates and EY’s internal documentation tools
+- Communicating with client-side accountants to confirm balances and explain data discrepancies
+
+This experience taught me how large enterprises structure their financial data, how materiality is assessed, and how clean documentation is maintained under tight timelines. It was also my first real exposure to how **data credibility** affects business trust at scale.
+
+### Pacific Securities | Investment Banking Intern  
+**Beijing · Fall 2021**
+
+At Pacific Securities, I joined the investment banking division supporting IPO execution projects for manufacturing and fintech clients. My contributions included:
+
+- Conducting **industry and peer benchmarking** for listing candidates using WIND and prospectus data
+- Reviewing corporate financials and assisting in the preparation of due diligence checklists
+- Drafting sections of equity financing pitch books, including market positioning and valuation comps
+- Visualizing deal progress timelines for internal presentation using PowerPoint and Excel Gantt charts
+
+This experience gave me practical exposure to capital market workflows and financial storytelling — especially how valuation models and strategic narratives are constructed for investors and regulators.
+
+---
+
+Together, these roles helped me understand the real-world relationship between **data accuracy, financial insight, and business outcomes** — long before I started writing SQL or building dashboards. They gave me a baseline for discipline, stakeholder communication, and integrity — all of which I now carry into every dataset I touch.
+
+---
+## More About Me
 
 I believe great data work isn't just about code — it's about curiosity, empathy, and communication. Here are a few things that define me beyond the spreadsheet:
 
