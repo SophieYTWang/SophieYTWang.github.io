@@ -1,10 +1,12 @@
 ---
 title: Gun Violence and Economic Factors in the United States
+layout: post
 categories:
 - Research
 - Data Analysis
 feature_text: |
-  A Correlation-Based Study of Gun Violence from an Economic Perspective (Feb 2022)
+  A correlation-based study of gun violence from an economic perspective (Feb 2022)
+feature_image: "https://picsum.photos/2560/600?image=1027"
 ---
 
 In February 2022, I co-authored an academic research project titled **"Correlation Analysis of Gun Violence in the United States from Economic Perspective"**, conducted in collaboration with fellow researchers from Beijing Technology and Business University and the University of Nottingham Ningbo China. This project explored how various **economic indicators** correlate with different forms of **gun violence**, using publicly available data from 2006 to 2020.
