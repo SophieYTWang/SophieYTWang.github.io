@@ -10,7 +10,7 @@ excerpt: "Welcome to my personal website. I use data to find insights, solve pro
 Hi, I’m **Yingtong Wang** 👋 —— a data analyst with a strong foundation in business, statistics, and programming.  
 I have hands-on experience with Python, SQL, Tableau, Excel, and Power BI to analyze trends, build models, and deliver actionable insights.
 
-{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}  {% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}  {% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}     {% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}     {% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
 
 ## What I Do
 
@@ -38,7 +38,7 @@ I specialize in transforming complex data into insights that drive business impa
 
 ## Featured Projects
 
-### 🔸 Global Procurement Project (with Kearney Student Lab, 2025)**  
+### 🔸 Global Procurement Project (with Kearney Student Lab, 2025) 
 *Strategic procurement data project for a Fortune 100 company*
 
 - **Background:** PepsiCo sought to improve visibility and efficiency in its $1.7B global procurement system, managing over 10,000 suppliers with inconsistent data structures.
@@ -53,7 +53,7 @@ I specialize in transforming complex data into insights that drive business impa
 - **Tools:** Python · Excel · Tableau · PowerBI · Canvas · Xmind
 
 
-### 🔸 Kaggle NCAA Bracket Challenge – Top 6 Finish**  
+### 🔸 Kaggle NCAA Bracket Challenge – Top 6 Finish 
 *Behavior-driven March Madness prediction model*
 
 - **Background:** A data science competition focused on predicting NCAA tournament outcomes using fan-submitted bracket data.
