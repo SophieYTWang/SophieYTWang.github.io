@@ -1,5 +1,5 @@
 ---
-title: INFORMS 2025 Poster Presentation: Procurement Optimization with Data
+title: "INFORMS 2025 Poster Presentation: Procurement Optimization with Data"
 categories:
 - Conference
 - Procurement Analytics
@@ -9,6 +9,7 @@ feature_text: |
 feature_image: "https://picsum.photos/2560/600?image=1083"
 image: "https://picsum.photos/2560/600?image=1083"
 ---
+
 
 In **April 2025**, I had the honor of presenting my poster at the **INFORMS Annual Meeting**, one of the world’s leading conferences in analytics and operations research. My poster focused on **data-driven procurement optimization**, drawing from real-world consulting experience with a Fortune 100 client.
 
