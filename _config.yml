@@ -35,8 +35,7 @@ author: Yingtong Wang
 social:
   name: Yingtong Wang
   links:
-    - https://twitter.com/YingtongWang
-    - https://www.linkedin.com/in/YingtongWang
+    - https://www.linkedin.com/in/sophia-yingtong-wang
     - https://github.com/SophieYTWang
 
 # 4. Jekyll settings
@@ -85,7 +84,7 @@ description: "Data analyst with experience in Python, SQL, Tableau, Power BI, an
 url: "https://SophieYTWang.github.io"
 baseurl: ""
 repo: "https://github.com/SophieYTWang/SophieYTWang.github.io"
-email: "yingtong@example.com"
+email: "wang6679@purdue.edu"
 css_inline: true
 
 # 8. Site favicons & manifest icons
@@ -115,12 +114,11 @@ navigation_footer:
   url: https://github.com/SophieYTWang
 
 social_links:
-  LinkedIn: https://www.linkedin.com/in/YingtongWang
+  LinkedIn: https://www.linkedin.com/in/sophia-yingtong-wang
   GitHub: https://github.com/SophieYTWang
-  Email: mailto:yingtong@example.com
+  Email: mailto:wangyingtong2002@126.com
 
 sharing_links:
-  Twitter: "#0d94e7"
   LinkedIn: true
   Email: true
 
