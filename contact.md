@@ -4,8 +4,6 @@ permalink: /contact/
 layout: page
 ---
 
-# Let’s Connect
-
 Have a project in mind?  
 Want to talk data, dashboards, or just how *La La Land* made you cry too?  
 I’d love to hear from you.
