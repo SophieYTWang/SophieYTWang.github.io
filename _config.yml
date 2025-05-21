@@ -52,7 +52,7 @@ collections:
     output: true
     description: "Data analytics, dashboards, and modeling insights"
     feature_text: |
-      Welcome to my portfolio
+      Welcome
     feature_image: "/assets/default-social-image.png"
 
 # 6. Jekyll collections settings
