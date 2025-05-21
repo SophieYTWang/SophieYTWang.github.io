@@ -10,87 +10,107 @@ excerpt: "Welcome to my personal website. I use data to find insights, solve pro
 Hi, I’m **Yingtong Wang** 👋 —— a data analyst with a strong foundation in business, statistics, and programming.  
 I have hands-on experience with Python, SQL, Tableau, Excel, and Power BI to analyze trends, build models, and deliver actionable insights.
 
-{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}
-{% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}
-{% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/sophia-yingtong-wang" color="#0A66C2" %}  {% include button.html text="GitHub" icon="github" link="https://github.com/SophieYTWang" color="#333333" %}  {% include button.html text="My Resume 📄" icon="file-text" link="https://github.com/SophieYTWang/SophieYTWang.github.io/blob/main/Wang%20Yingtong%20%2B%20Sophia.pdf" color="#F4A261" %}
 
 ## What I Do
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+I specialize in transforming complex data into insights that drive business impact. Below are the core areas of my work, along with examples drawn from real-world projects:
 
-## Examples
+- **Data Cleaning & Transformation**  
+  I prepare raw and inconsistent data for analysis through standardization, deduplication, and enrichment.  
+  *Example:* Cleaned and standardized over 210,000 rows of procurement data from a global procurement platform, improving data accuracy by 20%.
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- **Dashboard Design & Visualization**  
+  I design clear, interactive dashboards in Tableau and Power BI to help stakeholders monitor key metrics and make decisions.  
+  *Example:* Built 4 Tableau dashboards to track unit prices, supplier lead times, and contract compliance, reducing supplier selection time.
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- **Predictive Modeling & Machine Learning**  
+  I apply machine learning techniques to generate forecasts and detect patterns in large datasets.  
+  *Example:* Led a Kaggle NCAA project where I built ensemble models (XGBoost, logistic regression) to predict tournament outcomes using 50,000+ fan brackets.
 
-## Installation
+- **Business Problem Solving & Analytical Thinking**  
+  I approach each analysis with business context in mind, ensuring data is used to solve actual operational challenges.  
+  *Example:* Identified supplier consolidation opportunities across 5,000+ vendors, contributing to a $40M cost-saving projection.
 
-### Quick setup
+- **Cross-functional Collaboration & Communication**  
+  I communicate technical findings clearly and effectively across business, consulting, and engineering teams.  
+  *Example:* Worked with Kearney consultants and client stakeholders to validate KPIs and deliver procurement optimization insights that informed executive decisions.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+## Featured Projects
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+### 🔸 Global Procurement Project (with Kearney Student Lab, 2025)**  
+*Strategic procurement data project for a Fortune 100 company*
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+- **Background:** PepsiCo sought to improve visibility and efficiency in its $1.7B global procurement system, managing over 10,000 suppliers with inconsistent data structures.
+- **Task:** Lead data analyst on a Kearney consulting project focused on cleaning procurement data, creating actionable dashboards, and uncovering cost-saving opportunities.
+- **Action:**  
+  - Standardized and cleaned 210,000+ records from global sourcing databases.
+  - Built Tableau dashboards to visualize unit pricing trends, lead times, and compliance.
+  - Worked cross-functionally with consultants and client stakeholders to validate and deploy insights.
+- **Result:**  
+  - Improved data accuracy by 50% and reduced supplier base by 52%.
+  - Identified over **$40 million in projected cost savings** via supplier consolidation.
+- **Tools:** Python · Excel · Tableau · PowerBI · Canvas · Xmind
 
-### As a Jekyll theme
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### 🔸 Kaggle NCAA Bracket Challenge – Top 6 Finish**  
+*Behavior-driven March Madness prediction model*
 
-### As a GitHub Pages remote theme
+- **Background:** A data science competition focused on predicting NCAA tournament outcomes using fan-submitted bracket data.
+- **Task:** As team lead, I guided a 4-member team in feature engineering, model development, and dashboard storytelling.
+- **Action:**  
+  - Built an ensemble model (XGBoost + logistic regression) to forecast outcomes from 50,000+ brackets.
+  - Used K-Means clustering to segment fans by geographic patterns (DMA codes).
+  - Designed a Tableau dashboard with 10+ KPIs to visualize prediction accuracy and regional bias.
+- **Result:**  
+  - Ranked **Top 6 out of 80+ teams** on Kaggle’s private leaderboard.
+  - Provided a dynamic analytics solution combining interpretability and predictive accuracy.
+- **Tools:** Python · Tableau · Excel
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+## Technical Toolbox
 
-### As a Boilerplate / Fork
+**Languages & Tools:** Python · SQL · R · Excel   
+**Modeling:** EDA · A/B Testing · Regression · XGBoost · Clustering · SAS Enterprise Miner  
+**Visualization:** Tableau · Power BI  
+**Cloud/Workflow:** Azure · AWS · Git · Jira
 
-_(deprecated, not recommended)_
+## Education & Certifications
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+**🎓 Purdue University**, MS in Business Analytics and Information Management 
+**🎓 Beijing Technology and Business University**, Bachelor of Management (Top 5%), Bachelor of Economics (GPA 4.0)  
+**📜 Certifications:**  
+- Microsoft Azure AI Fundamentals (AI-900)  
+- Microsoft Azure Fundamentals (AZ-900)  
+- ACCA 5/13 passed
+- PMP (in progress)
+- AWS Foundation Certificate (in progress)
+- Tableau Foundation Certificate (in progress)
 
-## Customising
+## More About Me
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+I believe great data work isn't just about code — it's about curiosity, empathy, and communication. Here are a few things that define me beyond the spreadsheet:
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
+- **I love turning complex into clear.**  
+  Whether it’s translating data jargon into executive language or simplifying messy procurement records, I enjoy helping others *understand* what matters.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+- **I believe dashboards should spark joy.**  
+  My goal isn’t just functional visuals — it’s visualizations that make people say “oh, that makes sense.” Form follows function, always.
+
+- **I’m driven by questions, not just answers.**  
+  I’m most engaged when I get to ask “why?”, dig deeper, and see the bigger picture. That’s what makes data meaningful — the *story*, not just the stats.
+
+- **I appreciate beauty in structure — whether in data or design.**  
+  Clean code, well-labeled tables, and elegant notebooks make me smile. A good dashboard is like good architecture: intentional, efficient, and easy to navigate.
+
+- **Outside of work, I find joy in simple things.**  
+  I love swimming — it clears my head and sharpens my focus. Traveling gives me new perspectives, both in life and in problem-solving. And when I need emotional inspiration, I rewatch *La La Land*. What I love about *La La Land* isn’t just the music or colors — it’s the tension between dreams and reality, love and ambition. The film reminds me that life is often about choosing between two beautiful things, and that courage sometimes means walking away from one to honor the other. That balance — between heart and logic — is something I carry into both my personal life and my work.
+
+- **I balance logic with life.**  
+  I believe data science is as much about intuition as it is about structure. Lakeside walks help me reflect. Long swims help me reset. And stories — whether in data or in cinema — are what connect everything for me.
+
+## Let’s Connect
+
+Whether you want to talk about data pipelines or career plans — or just want dashboard design tips over coffee — I’m always happy to chat.
+
+📧 **Email**: wangyingtong2002@126.com  
+🔗 **LinkedIn**: [sophia-yingtong-wang](https://www.linkedin.com/in/sophia-yingtong-wang)
