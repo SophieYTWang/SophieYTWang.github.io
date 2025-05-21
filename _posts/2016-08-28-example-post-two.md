@@ -1,18 +1,44 @@
 ---
-title: History of the Alembic
+title: Gun Violence and Economic Factors in the United States
 categories:
-- History
-- External sources
+- Research
+- Data Analysis
 feature_text: |
-  The History of the Alembic tool
+  A Correlation-Based Study of Gun Violence from an Economic Perspective (Feb 2022)
 ---
 
-Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
+In February 2022, I co-authored an academic research project titled **"Correlation Analysis of Gun Violence in the United States from Economic Perspective"**, conducted in collaboration with fellow researchers from Beijing Technology and Business University and the University of Nottingham Ningbo China. This project explored how various **economic indicators** correlate with different forms of **gun violence**, using publicly available data from 2006 to 2020.
 
 <!-- more -->
 
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
+## Overview
 
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
+While most studies focus on access to firearms or mental health, this project focused on underexplored macroeconomic variables such as the **Gini coefficient**, **poverty rate**, **labor participation**, and **homelessness**. We aimed to answer: *To what extent do regional economic conditions contribute to firearm-related deaths and mass shootings in the United States?*
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+## Methodology
+
+- Data from 10 distinct datasets (sourced from **Statista**) were aggregated and standardized.
+- Features included: gun death rates, homicide rates, population density, unemployment, household median income, and gun ownership.
+- **Pearson correlation analysis** was used to test linear relationships between economic indicators and gun violence metrics.
+- Data were analyzed across both **states** and **years**.
+
+## Key Findings
+
+- **Firearm death rate** is positively correlated with **gun ownership** and **negatively correlated with population density**.
+- **Mass shooting events** are significantly correlated with **economic instability**, especially:
+  - **Negatively** correlated with **labor participation** and **homelessness**
+  - **Positively** correlated with **Gini coefficient** (income inequality)
+- **Homicide by firearm** shows a **positive correlation** with **poverty rate** and **unemployment**.
+
+These findings suggest that **uncoordinated and unstable economic development contributes to a higher likelihood of gun violence**, reinforcing the need for policy responses beyond traditional firearm regulation.
+
+## Citation & Full Paper
+
+**Title:** Correlation Analysis of Gun Violence in the United States from Economic Perspective  
+**Authors:** Yi Tian, Yingtong Wang, Yuxuan Xiao  
+**Published:** February 2022  
+
+📄 [Click here to read the full paper (PDF)](https://bcpublication.org/index.php/BM/article/view/1358)  
+
+---
+> This paper was a collaborative effort under academic supervision and contributes to a data-informed understanding of one of America's most urgent public safety challenges.
